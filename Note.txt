@@ -17,3 +17,6 @@ so we PUSHED local commits to remote repository using push origin button
 How to save after adding some text in sublime
 On Mac Command + S
 Or Click on File --> Save
+
+
+We don't have to push one commit at a time 
