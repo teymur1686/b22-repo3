@@ -4,7 +4,7 @@ to removete Github.com repository
 Few thing happened:
 under GitHub.com account
 2. Made the connection with local git repo
-3. Added all your comits to remote repo
+3. Added all your commits to remote repo
 
 Now our work will continue locally
 
