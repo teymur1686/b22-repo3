@@ -1,7 +1,10 @@
 public class HelloWorld{
 	
-public static void public {
-	
+public static void main {String[] args) {
+
+
+
+
 }
 
 }
