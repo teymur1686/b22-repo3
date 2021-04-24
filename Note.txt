@@ -1,0 +1,7 @@
+We just published our local git repo
+to removete Github.com repository
+1. It automatically created new Remote Repo
+Few thing happened:
+under GitHub.com account
+2. Made the connection with local git repo
+3. Added all your comits to remote repo
